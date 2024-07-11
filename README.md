@@ -17,6 +17,7 @@
 
 ## 📝 Document 👀
 ### ⚠️ Don't Use Vpn or Proxy! 🔒
+## Note: The links you click on have ads (advertisements). Just avoid them.
 
 **Download** 👽
 ```
