@@ -3,12 +3,11 @@
   "request-timeout": 5,
   "output": "accounts.txt",
   "services": [
-    "bluealts"
+    "altsforyou"
   ],
   "url": {
-    "bluealts": [
-      "https://bluealts.net/",
-      "https://bluealts.net/crunchyroll/"
+    "altsforyou": [
+      "https://altsforyou.org/crunchyroll"
     ]
   }
 }
